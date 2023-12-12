@@ -1,5 +1,5 @@
 # Anomaly-Detection_ISCXTor2016
-*Intelligent and Secure Network* examination project.
+*Intelligent and Secure Networks* examination project.
 
 ## Overview
 This project is dedicated to the task of anomaly detection, specifically targeting the identification of TOR (The Onion Router) traffic through the implementation of unsupervised models.
