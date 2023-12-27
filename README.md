@@ -1,4 +1,4 @@
-# Anomaly-Detection_ISCXTor2016
+# Anomaly-Detection-ISCXTor2016
 *Intelligent and Secure Networks* examination project.
 
 ## Overview
